@@ -1,4 +1,4 @@
-# craftzonenetwork.github.io
+# CraftZone Nework
 
 ## Projects
 ### Project 1
