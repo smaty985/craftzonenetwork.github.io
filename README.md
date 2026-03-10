@@ -1,5 +1,17 @@
 # craftzonenetwork.github.io
 
-## 2 hashtag
+## Projects
+### Project 1
+- Description
+- Link
 
-### 3 hashtag
+### Project 2
+- Description
+- Link
+
+# Education
+- Hell Yeah
+
+# Work History 
+- Work place 1
+- Work place 2
